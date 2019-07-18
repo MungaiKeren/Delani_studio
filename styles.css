@@ -1,0 +1,28 @@
+.landing-page{
+    background-image: url('https://github.com/MungaiKeren/Delani_studio/blob/master/assets/backgrounds/h_img.jpg?raw=true');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 15%; 
+    text-align: center;
+}
+#img1{
+    padding-bottom: 1%;
+}
+#img2{
+    margin-top: 10%;
+    padding-bottom: 30px;
+}
+h1,p{
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    /* padding-bottom: 5px;
+    padding-top: 9%; */
+}
+/* p{
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+}  */
+
