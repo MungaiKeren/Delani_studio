@@ -13,16 +13,22 @@
     margin-top: 10%;
     padding-bottom: 30px;
 }
-h1,p{
+h1.lp,p.lp{
     text-transform: uppercase;
     color: white;
     text-align: center;
-    /* padding-bottom: 5px;
-    padding-top: 9%; */
 }
-/* p{
-    text-transform: uppercase;
-    color: white;
+.container-fluid{
+    height: 300px;
+    padding: 30px;
+}
+h2,p{
     text-align: center;
-}  */
-
+}
+.services{
+    background-image: url('https://github.com/MungaiKeren/Delani_studio/blob/master/assets/backgrounds/s_image.jpg?raw=true');
+    background-size: cover;
+    background-position: fixed;
+    background-repeat: no-repeat;
+    padding-top: 20%;
+}
