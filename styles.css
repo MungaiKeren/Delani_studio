@@ -31,7 +31,7 @@ h2,p{
     background-size: cover;
     background-position: fixed;
     background-repeat: no-repeat;
-    padding-top: 20%;
+    padding: 9%;
     text-align: center;
 }
 h2.srv,p.srv{
@@ -49,23 +49,35 @@ img.img{
     background-size: cover;
     background-position: fixed;
     background-repeat: no-repeat; 
+    padding: 5%;
     text-align: center; 
 }
 h1#ft{
     color: white;
-}
-form{
-    /* padding: 18px; */
 }
 ::placeholder{
     color: white;
 }
 input[type=text],input[type=email]{
     background: transparent;
+
 }
-textarea{
+#textarea{
     background: transparent;
+    width: 60%;
+    height: 50%;
+    margin-left: 20%; 
 }
+.form-control::placeholder{
+     color:white;
+    }
 .icons{
     text-align: center;
+    padding: 18px;
+}
+.icn{
+    padding: 15px;
+}
+#hide,#hide1,#hide2{
+    display: none;
 }
