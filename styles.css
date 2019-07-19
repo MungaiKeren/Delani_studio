@@ -19,7 +19,7 @@ h1.lp,p.lp{
     text-align: center;
 }
 .container-fluid{
-    height: 300px;
+    /* height: 300px; */
     padding: 30px;
     text-align: center;
 }
@@ -48,24 +48,24 @@ img.img{
     background-image: url('https://github.com/MungaiKeren/Delani_studio/blob/master/assets/backgrounds/c_image.jpg?raw=true');
     background-size: cover;
     background-position: fixed;
-    background-repeat: no-repeat;
-    padding: 5%; 
+    background-repeat: no-repeat; 
     text-align: center; 
 }
 h1#ft{
     color: white;
 }
 form{
-    padding: 18px;
-}
-input{
-    border: 2px solid white;
-    background: transparent;
+    /* padding: 18px; */
 }
 ::placeholder{
     color: white;
 }
-textarea{
-    height: 100px;
+input[type=text],input[type=email]{
     background: transparent;
+}
+textarea{
+    background: transparent;
+}
+.icons{
+    text-align: center;
 }
