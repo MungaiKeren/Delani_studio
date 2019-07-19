@@ -38,7 +38,34 @@ h2.srv,p.srv{
     color: white;
 }
 .portfolio{
+    padding: 20px;
     text-align: center;
-    justify-content: space-around;
-    margin-right: 100px;
+}
+img.img{
+    padding: 20px;
+}
+.footer{
+    background-image: url('https://github.com/MungaiKeren/Delani_studio/blob/master/assets/backgrounds/c_image.jpg?raw=true');
+    background-size: cover;
+    background-position: fixed;
+    background-repeat: no-repeat;
+    padding: 5%; 
+    text-align: center; 
+}
+h1#ft{
+    color: white;
+}
+form{
+    padding: 18px;
+}
+input{
+    border: 2px solid white;
+    background: transparent;
+}
+::placeholder{
+    color: white;
+}
+textarea{
+    height: 100px;
+    background: transparent;
 }
