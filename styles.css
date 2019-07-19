@@ -11,7 +11,7 @@
 }
 #img2{
     margin-top: 10%;
-    padding-bottom: 30px;
+    padding-bottom: 40px;
 }
 h1.lp,p.lp{
     text-transform: uppercase;
@@ -21,6 +21,7 @@ h1.lp,p.lp{
 .container-fluid{
     height: 300px;
     padding: 30px;
+    text-align: center;
 }
 h2,p{
     text-align: center;
@@ -31,4 +32,13 @@ h2,p{
     background-position: fixed;
     background-repeat: no-repeat;
     padding-top: 20%;
+    text-align: center;
+}
+h2.srv,p.srv{
+    color: white;
+}
+.portfolio{
+    text-align: center;
+    justify-content: space-around;
+    margin-right: 100px;
 }
