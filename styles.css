@@ -81,3 +81,32 @@ input[type=text],input[type=email]{
 #hide,#hide1,#hide2{
     display: none;
 }
+button{
+    margin-right: 50% !important;
+}
+#portfolio{
+    /* display: flex;
+    flex-wrap: wrap; */
+    /* align-items: center;
+    margin-left:16%;
+    margin-right: 16%;  */
+}
+.col-md-2 img{
+    width: 200px;
+    margin: 20px; 
+    padding: 10px;
+}  
+p#name1{
+    display: none;
+    opacity: 0.5;
+    text-align: center;
+}
+p#name2{
+    display: none;
+}
+p#name3{
+    display: none;
+}
+#name4,#name5,#name6,#name7,#name8{
+    display: none;
+}

@@ -29,9 +29,17 @@ $(document).ready(function(){
         $('div#hide2').hide();
     });
 });
+// hover over the images
+$(document).ready(function(){
+    $('img#1').hover(function(){
+        $('#name1').show();;
+    }).mouseleave(function(){
+        $('#name1').hide()
+    });
+});
 //on submission of the form, displays an alert message.
 $(document).ready(function(){
     $('form').submit(function(){
-        alert("we have recieve your message, thank you for reaching out to us.")
+        alert("we have recieved your message, thank you for reaching out to us.")
     });
 });
