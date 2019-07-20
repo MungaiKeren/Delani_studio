@@ -97,6 +97,13 @@ $(document).ready(function(){
 //on submission of the form, displays an alert message.
 $(document).ready(function(){
     $('form').submit(function(){
-        alert("we have recieved your message, thank you for reaching out to us.")
+        var name = $('input#name').val();
+        var email = $('input#email').val();
+        var text = $('textarea#textarea').val();
+        if ($('input#name').val() && $('input#email').val() && $('textarea#textarea').val() !== ""){
+            alert(name+", we have recieved your email. Thank you for responding to us.");
+        } else {
+            alert("Please enter your name and email.");
+        }
     });
 });
