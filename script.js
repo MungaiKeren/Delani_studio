@@ -31,11 +31,68 @@ $(document).ready(function(){
 });
 // hover over the images
 $(document).ready(function(){
-    $('img#1').hover(function(){
-        $('#name1').show();;
+    $('img#img1').hover(function(){
+        $('p#name1').show();
     }).mouseleave(function(){
-        $('#name1').hide()
+        $('p#name1').hide();
     });
+    event.preventDefault();
+});
+$(document).ready(function(){
+    $('img#img2').hover(function(){
+        $('p#name2').show();
+    }).mouseleave(function(){
+        $('p#name2').hide();
+    });
+    event.preventDefault();
+});
+$(document).ready(function(){
+    $('img#img3').hover(function(){
+        $('p#name3').show();
+    }).mouseleave(function(){
+        $('p#name3').hide();
+    });
+    event.preventDefault();
+});
+$(document).ready(function(){
+    $('img#img4').hover(function(){
+        $('p#name4').show();
+    }).mouseleave(function(){
+        $('p#name4').hide();
+    });
+    event.preventDefault();
+});
+$(document).ready(function(){
+    $('img#img5').hover(function(){
+        $('p#name5').show();
+    }).mouseleave(function(){
+        $('p#name5').hide();
+    });
+    event.preventDefault();
+});
+$(document).ready(function(){
+    $('img#img6').hover(function(){
+        $('p#name6').show();
+    }).mouseleave(function(){
+        $('p#name6').hide();
+    });
+    event.preventDefault();
+});
+$(document).ready(function(){
+    $('img#img7').hover(function(){
+        $('p#name7').show();
+    }).mouseleave(function(){
+        $('p#name7').hide();
+    });
+    event.preventDefault();
+});
+$(document).ready(function(){
+    $('img#img8').hover(function(){
+        $('p#name8').show();
+    }).mouseleave(function(){
+        $('p#name8').hide();
+    });
+    event.preventDefault();
 });
 //on submission of the form, displays an alert message.
 $(document).ready(function(){

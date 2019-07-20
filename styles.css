@@ -84,13 +84,6 @@ input[type=text],input[type=email]{
 button{
     margin-right: 50% !important;
 }
-#portfolio{
-    /* display: flex;
-    flex-wrap: wrap; */
-    /* align-items: center;
-    margin-left:16%;
-    margin-right: 16%;  */
-}
 .col-md-2 img{
     width: 200px;
     margin: 20px; 
@@ -98,15 +91,49 @@ button{
 }  
 p#name1{
     display: none;
+    color: black;
+    background-color: beige;
     opacity: 0.5;
-    text-align: center;
+    position: absolute;
+    top: 0px;
+    left: 42px;
+    width: 200px;
+    height: 200px;
+    padding: 30%;
 }
 p#name2{
     display: none;
+    color: black;
+    background-color: beige;
+    opacity: 0.5;
+    position: absolute;
+    top: 0px;
+    left: 42px;
+    width: 200px;
+    height: 200px;
+    padding: 30%;    
 }
 p#name3{
     display: none;
+    color: black;
+    background-color: beige;
+    opacity: 0.5;
+    position: absolute;
+    top: 0px;
+    left: 42px;
+    width: 200px;
+    height: 200px;
+    padding: 30%;
 }
-#name4,#name5,#name6,#name7,#name8{
+p#name4,p#name5,p#name6,p#name7,p#name8{
     display: none;
+    color: black;
+    background-color: beige;
+    opacity: 0.5;
+    position: absolute;
+    top: 0px;
+    left: 42px;
+    width: 200px;
+    height: 200px;
+    padding: 30%;
 }
