@@ -18,6 +18,9 @@ h1.lp,p.lp{
     color: white;
     text-align: center;
 }
+p.lp{
+    font-size: 15px;
+}
 .container-fluid{
     /* height: 300px; */
     padding: 30px;
