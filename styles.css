@@ -107,6 +107,7 @@ p#name1{
     width: 200px;
     height: 200px;
     padding: 30%;
+    font-family: 'Lobster', cursive;
 }
 p#name2{
     display: none;
@@ -118,7 +119,8 @@ p#name2{
     left: 42px;
     width: 200px;
     height: 200px;
-    padding: 30%;    
+    padding: 30%;   
+    font-family: 'Lobster', cursive; 
 }
 p#name3{
     display: none;
@@ -131,6 +133,7 @@ p#name3{
     width: 200px;
     height: 200px;
     padding: 30%;
+    font-family: 'Lobster', cursive;
 }
 p#name4,p#name5,p#name6,p#name7,p#name8{
     display: none;
@@ -143,4 +146,5 @@ p#name4,p#name5,p#name6,p#name7,p#name8{
     width: 200px;
     height: 200px;
     padding: 30%;
+    font-family: 'Lobster', cursive;
 }
