@@ -29,6 +29,9 @@ p.lp{
 h2,p{
     text-align: center;
 }
+h2{
+    font-family: 'Roboto', sans-serif;
+}
 .services{
     background-image: url('https://github.com/MungaiKeren/Delani_studio/blob/master/assets/backgrounds/s_image.jpg?raw=true');
     background-size: cover;
@@ -55,7 +58,7 @@ img.img{
     padding: 5%;
     text-align: center; 
 }
-h1#ft{
+h2#ft{
     color: white;
 }
 ::placeholder{
