@@ -60,7 +60,8 @@ h1#ft{
 }
 input[type=text],input[type=email]{
     background: transparent;
-
+    padding: 5px;
+    margin-left: 20%;
 }
 #textarea{
     background: transparent;
