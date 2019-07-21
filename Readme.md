@@ -25,5 +25,7 @@ You are most welcome to contribute! To make and improvement or fix a bug, please
 ## Support and contact details
 If you find a bug kindly report in the issues platform, or contact me at wambukeren@gmail.com
 ### License
-MIT license
-Copyright (c) {2019} 
+* MIT license
+* Copyright (c) {2019} 
+#### Screenshot
+<img src="" height="400px" width="100%">
