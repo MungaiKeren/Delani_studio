@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 .landing-page{
     background-image: url('https://github.com/MungaiKeren/Delani_studio/blob/master/assets/backgrounds/h_img.jpg?raw=true');
     background-size: cover;
@@ -61,9 +64,6 @@ img.img{
 h2#ft{
     color: white;
 }
-/* ::placeholder{
-    color: white;
-} */
 input[type=text],input[type=email]{
     background: transparent;
     padding: 5px;
