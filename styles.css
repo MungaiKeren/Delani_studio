@@ -61,9 +61,9 @@ img.img{
 h2#ft{
     color: white;
 }
-::placeholder{
+/* ::placeholder{
     color: white;
-}
+} */
 input[type=text],input[type=email]{
     background: transparent;
     padding: 5px;

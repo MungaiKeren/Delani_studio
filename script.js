@@ -72,25 +72,25 @@ $(document).ready(function(){
 });
 $(document).ready(function(){
     $('#img6').hover(function(){
-        $('p#name6').show();
+        $('p#name6').show('slow');
     }).mouseleave(function(){
-        $('p#name6').hide();
+        $('p#name6').hide('slow');
     });
     event.preventDefault();
 });
 $(document).ready(function(){
     $('#img7').hover(function(){
-        $('p#name7').show();
+        $('p#name7').show('slow');
     }).mouseleave(function(){
-        $('p#name7').hide();
+        $('p#name7').hide('slow');
     });
     event.preventDefault();
 });
 $(document).ready(function(){
     $('#img8').hover(function(){
-        $('p#name8').show();
+        $('p#name8').show('slow');
     }).mouseleave(function(){
-        $('p#name8').hide();
+        $('p#name8').hide('slow');
     });
     event.preventDefault();
 });
