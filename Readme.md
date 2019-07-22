@@ -28,4 +28,4 @@ If you find a bug kindly report in the issues platform, or contact me at wambuke
 * MIT license
 * Copyright (c) {2019} 
 #### Screenshot
-<img src="https://github.com/MungaiKeren/Delani_studio/blob/master/assets/Screenshot%20from%202019-07-21%2017-30-42.png?raw=true" height="400px" width="100%">
+<img src="https://github.com/MungaiKeren/Delani_studio/blob/master/assets/Screenshot%20from%202019-07-21%2017-30-42.png?raw=true" height="500px" width="100%">
