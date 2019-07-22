@@ -31,47 +31,47 @@ $(document).ready(function(){
 });
 // hover over the images
 $(document).ready(function(){
-    $('img#img1').hover(function(){
-        $('p#name1').show();
+    $('#img1').hover(function(){
+        $('p#name1').show('slow');
     }).mouseleave(function(){
-        $('p#name1').hide();
+        $('p#name1').hide('slow');
     });
     event.preventDefault();
 });
 $(document).ready(function(){
-    $('img#img2').hover(function(){
-        $('p#name2').show();
+    $('#img2').hover(function(){
+        $('p#name2').show('slow');
     }).mouseleave(function(){
-        $('p#name2').hide();
+        $('p#name2').hide('slow');
     });
     event.preventDefault();
 });
 $(document).ready(function(){
-    $('img#img3').hover(function(){
-        $('p#name3').show();
+    $('#img3').hover(function(){
+        $('p#name3').show('slow');
     }).mouseleave(function(){
-        $('p#name3').hide();
+        $('p#name3').hide('slow');
     });
     event.preventDefault();
 });
 $(document).ready(function(){
-    $('img#img4').hover(function(){
-        $('p#name4').show();
+    $('#img4').hover(function(){
+        $('p#name4').show('slow');
     }).mouseleave(function(){
-        $('p#name4').hide();
+        $('p#name4').hide('slow');
     });
     event.preventDefault();
 });
 $(document).ready(function(){
-    $('img#img5').hover(function(){
-        $('p#name5').show();
+    $('#img5').hover(function(){
+        $('p#name5').show('slow');
     }).mouseleave(function(){
-        $('p#name5').hide();
+        $('p#name5').hide('slow');
     });
     event.preventDefault();
 });
 $(document).ready(function(){
-    $('img#img6').hover(function(){
+    $('#img6').hover(function(){
         $('p#name6').show();
     }).mouseleave(function(){
         $('p#name6').hide();
@@ -79,7 +79,7 @@ $(document).ready(function(){
     event.preventDefault();
 });
 $(document).ready(function(){
-    $('img#img7').hover(function(){
+    $('#img7').hover(function(){
         $('p#name7').show();
     }).mouseleave(function(){
         $('p#name7').hide();
@@ -87,7 +87,7 @@ $(document).ready(function(){
     event.preventDefault();
 });
 $(document).ready(function(){
-    $('img#img8').hover(function(){
+    $('#img8').hover(function(){
         $('p#name8').show();
     }).mouseleave(function(){
         $('p#name8').hide();

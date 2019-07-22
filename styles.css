@@ -126,7 +126,7 @@ p#name2{
 }
 p#name3{
     display: none;
-    color: black;
+    /* color: black; */
     background-color: beige;
     opacity: 0.5;
     position: absolute;
