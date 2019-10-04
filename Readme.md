@@ -25,7 +25,7 @@ You are most welcome to contribute! To make and improvement or fix a bug, please
 ## Support and contact details
 If you find a bug kindly report in the issues platform, or contact me at wambukeren@gmail.com
 ### License
-* MIT license
+* [MIT](https://github.com/MungaiKeren/Delani_studio/blob/master/LICENSE) license
 * Copyright (c) {2019} 
 #### Screenshot
 <img src="https://github.com/MungaiKeren/Delani_studio/blob/master/assets/Screenshot%20from%202019-07-21%2017-30-42.png?raw=true" height="500px" width="100%">
